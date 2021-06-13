@@ -16,3 +16,17 @@
 - K-Nearest Neighbors (KNN)
 - Feature Selection
 
+## Some Algoritms
+ - Linear     Regression
+ - Mulitple   Regression
+ - Polynomial Regression
+ - Logistic   Regression
+ - Random Forest
+ - Decision Tree
+ - KNN
+ - Naives Bayes
+ - Support Vector Machine (SVM)
+ - K-Means Clustering
+ - PCA
+
+
