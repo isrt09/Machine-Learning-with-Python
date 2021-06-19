@@ -25,5 +25,8 @@
  - Support Vector Machine (SVM)
  - K-Means Clustering
  - PCA
-
+## Deep Learning
+  - Neural Networks
+  - Gradient Descent
+  - Backpropagation
 
