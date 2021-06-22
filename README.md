@@ -16,7 +16,7 @@
  - Mulitple   Regression
  - Polynomial Regression
  - Logistic   Regression
- - Lasso	  Regression
+ - Lasso	  Regression 
  - Random Forest
  - AdaBoost, XGBoost
  - Decision Tree
@@ -26,4 +26,8 @@
  - K-Means Clustering
  - PCA
 
+## Deep Learning
+ - Neural Networks
+ - Gradient Descent
+ - Backpropagation
 
