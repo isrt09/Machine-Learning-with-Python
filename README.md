@@ -31,3 +31,4 @@
  - Gradient Descent
  - Backpropagation
 
+
